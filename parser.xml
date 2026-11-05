@@ -1,0 +1,832 @@
+<d:multistatus xmlns:d="DAV:" xmlns:s="http://sabredav.org/ns" xmlns:oc="http://owncloud.org/ns"
+    xmlns:nc="http://nextcloud.org/ns">
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>CNPJ</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 13 Oct 2026 22:09:31 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-05/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-05</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-06</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-07/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-07</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-08/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-08</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-09/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-09</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-10/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-10</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-11/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-11</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2023-12/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2023-12</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-01/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-01</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-02/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-02</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-03/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-03</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-04/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-04</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-05/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-05</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-06</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-07/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-07</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-08/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-08</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:45 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-09/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-09</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-10/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-10</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:46 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-11/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-11</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2024-12/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2024-12</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-01/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-01</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-02/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-02</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-03/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-03</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-04/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-04</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-05/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-05</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 20 May 2025 20:54:47 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-06</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-07/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-07</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-08/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-08</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-09/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-09</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-10/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-10</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-11/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-11</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2025-12/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2025-12</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-01/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-01</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-02/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-02</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-03/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-03</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-04/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-04</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-05/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-05</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-06/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-06</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-07/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-07</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 02 Aug 2026 09:06:42 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-08/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-08</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Sun, 09 Aug 2026 18:35:31 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-09/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-09</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Mon, 14 Sep 2026 15:08:06 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/2026-10/</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>2026-10</d:displayname>
+                <d:resourcetype>
+                    <d:collection />
+                </d:resourcetype>
+                <d:getlastmodified>Tue, 13 Oct 2026 22:09:31 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+        <d:propstat>
+            <d:prop>
+                <d:getcontentlength />
+            </d:prop>
+            <d:status>HTTP/1.1 404 Not Found</d:status>
+        </d:propstat>
+    </d:response>
+    <d:response>
+        <d:href>/public.php/dav/files/YggdBLfdninEJX9/cnpj.tar.gz</d:href>
+        <d:propstat>
+            <d:prop>
+                <d:displayname>cnpj.tar.gz</d:displayname>
+                <d:resourcetype />
+                <d:getcontentlength>63954782749</d:getcontentlength>
+                <d:getlastmodified>Wed, 28 Jan 2026 15:22:29 GMT</d:getlastmodified>
+            </d:prop>
+            <d:status>HTTP/1.1 200 OK</d:status>
+        </d:propstat>
+    </d:response>
+</d:multistatus>

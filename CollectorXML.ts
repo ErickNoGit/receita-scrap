@@ -13,7 +13,6 @@ const response = await fetch(url, {
       <d:prop>
         <d:displayname/>
         <d:resourcetype/>
-        <d:getcontentlength/>
         <d:getlastmodified/>
       </d:prop>
     </d:propfind>`,
@@ -22,6 +21,7 @@ const response = await fetch(url, {
 const xml = await response.text();
 
 const CollectorXMLS = {
+  link: url,
   content: xml,
 };
 
